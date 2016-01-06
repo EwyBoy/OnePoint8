@@ -1,0 +1,16 @@
+[
+    {
+      "modid": "onepoint8",
+      "name": "OnePoint8",
+      "description": "Testing",
+      "version": "${version}",
+      "mcversion": "${mcversion}",
+      "url": "",
+      "updateUrl": "",
+      "authorList": ["Ewy"],
+      "credits": "The Forge and FML guys",
+      "logoFile": "",
+      "screenshots": [],
+      "dependencies": []
+    }
+]
